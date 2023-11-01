@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d999b6c7.css",
+    "main.js": "./static/js/main.fee6b8e7.js",
+    "static/js/787.ae5d3369.chunk.js": "./static/js/787.ae5d3369.chunk.js",
+    "static/media/TheCheeseClub-white-transparent.png": "./static/media/TheCheeseClub-white-transparent.316837bb015871280bce.png",
+    "static/media/english.png": "./static/media/english.93d2adb01bfe10100427.png",
+    "index.html": "./index.html",
+    "main.d999b6c7.css.map": "./static/css/main.d999b6c7.css.map",
+    "main.fee6b8e7.js.map": "./static/js/main.fee6b8e7.js.map",
+    "787.ae5d3369.chunk.js.map": "./static/js/787.ae5d3369.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d999b6c7.css",
+    "static/js/main.fee6b8e7.js"
+  ]
+}
